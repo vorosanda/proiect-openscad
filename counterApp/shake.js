@@ -1,6 +1,5 @@
 /*
- * Author: Alex Gibson
- * https://github.com/alexgibson/shake.js
+ * Author: Iga (voronianu) Sanda Florina  vorosanda@gmail.com
  * License: MIT license
  */
 
