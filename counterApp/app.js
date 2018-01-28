@@ -1,5 +1,5 @@
 
-// Author: Voronianu Sanda <vorosanda@gmail.com>
+// Author: Iga (Voronianu) Sanda <vorosanda@gmail.com>
 // MIT License
 
 // Instantiating the shake lib
